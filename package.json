@@ -1,7 +1,7 @@
 {
   "name": "ReplitReactjsProject",
   "version": "0.0.1",
-  "homepage": "https://phoenix-dare.github.io/RandomQuoteMachine",
+  "homepage": "https://phoenix-dare.github.io/RandomQuoteMachine/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
